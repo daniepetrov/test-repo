@@ -14,7 +14,6 @@ export default function Home() {
   return (
     <div>
       <Title>My page</Title>
-      <SubTitle>Hello</SubTitle>
     </div>
   );
 }
